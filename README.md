@@ -8,7 +8,11 @@
 
 ## 鸣谢名单
 
-- 感谢[凉皮周](https://mc.dfrobot.com.cn/home.php?mod=space&uid=854671&do=profile&from=space)、[aYYSW8AepLLd](https://mc.dfrobot.com.cn/home.php?mod=space&uid=854277&do=profile&from=space)、  [Wzrulsft](https://mc.dfrobot.com.cn/home.php?mod=space&uid=860240&do=profile&from=space)、[曹魔人](https://mc.dfrobot.com.cn/home.php?mod=space&uid=861865&do=profile&from=space)等提出建议。
+- 感谢
+[凉皮周](https://mc.dfrobot.com.cn/home.php?mod=space&uid=854671&do=profile&from=space)、[aYYSW8AepLLd](https://mc.dfrobot.com.cn/home.php?mod=space&uid=854277&do=profile&from=space)、
+[Wzrulsft](https://mc.dfrobot.com.cn/home.php?mod=space&uid=860240&do=profile&from=space)、
+[曹魔人](https://mc.dfrobot.com.cn/home.php?mod=space&uid=861865&do=profile&from=space)
+等人提出建议。
 
 * * *
 
@@ -17,6 +21,10 @@
 * * *
 
 ## 索引
+
+- **[下载](#jump_12)**
+
+* * *
 
 - **[TF OS系列](#jump_1)**
 
@@ -61,8 +69,9 @@
 
 * * *
 
-# 文件下载(名字可能不对，不要在意~)
+## 文件下载(名字可能不对，不要在意~)
 
+<a id="jump_12"></a>
 - [win11开机界面模拟](https://mc.dfrobot.com.cn/forum.php?mod=attachment&aid=MTY2MTg1fDA3Yzc0YmIyfDE3Mjc2OTI3Njd8ODU3MTg2fDMxNzYzNw%3D%3D)
 
 * * *
@@ -150,145 +159,38 @@
 
 * * *
 
-- [别看了，这是一个空壳子]()
+- [反馈中心](https://mc.dfrobot.com.cn/data/attachment/forum/202408/02/132954s1p69487xnb6963z.rar)
 
 * * *
 
-- [别看了，这是一个空壳子]()
+- [用户中心1.0](https://mc.dfrobot.com.cn/data/attachment/forum/202408/04/114113l7957bva0ze2d9k7.rar)
 
 * * *
 
-- [别看了，这是一个空壳子]()
+- [用户中心2.0](https://mc.dfrobot.com.cn/data/attachment/forum/202408/09/165747yz8lpn1e8oe0be10.rar)
 
 * * *
 
-- [别看了，这是一个空壳子]()
+- [云数据库](https://mc.dfrobot.com.cn/data/attachment/forum/202408/14/150530s3o2bj40ajxj4g34.rar)
 
 * * *
 
-- [别看了，这是一个空壳子]()
+- [TF计算器1.0](https://mc.dfrobot.com.cn/data/attachment/forum/202409/15/212054r3ofoppbovcpywf1.zip)
 
 * * *
 
-- [别看了，这是一个空壳子]()
+- [TF计算器1.5](https://mc.dfrobot.com.cn/data/attachment/forum/202409/16/182238q1i4814ijajhjcb8.zip)
 
 * * *
 
-- [别看了，这是一个空壳子]()
+- [TF计算器1.6](https://mc.dfrobot.com.cn/data/attachment/forum/202409/17/152251kx9e0kz41eeh97bp.zip)
 
 * * *
 
-- [别看了，这是一个空壳子]()
+- [汉化版1.20 2D MC](https://mc.dfrobot.com.cn/data/attachment/forum/202408/10/185910dojvohyfyyop0z9f.rar)
 
 * * *
 
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
-
-- [别看了，这是一个空壳子]()
-
-* * *
 ## 阅读TF OS系列文章
 
 <a id="jump_1"></a>
@@ -401,7 +303,8 @@
 
 * * *
 
-- [了解我们的TF用户中心。](https://mc.dfrobot.com.cn/thread-319749-1-1.html) （2.0请看文章：[TF OS重制版 3.0](https://mc.dfrobot.com.cn/thread-319828-1-1.html)的结尾。）
+- [了解我们的TF用户中心。](https://mc.dfrobot.com.cn/thread-319749-1-1.html)
+- （2.0请看文章：[TF OS重制版 3.0](https://mc.dfrobot.com.cn/thread-319828-1-1.html)的结尾。）
 
 * * *
 
@@ -413,15 +316,15 @@
 
 * * *
 
-- [黑科技原理大揭秘1。](https://mc.dfrobot.com.cn/thread-319781-1-1.html)  
+- [黑科技原理大揭秘1](https://mc.dfrobot.com.cn/thread-319781-1-1.html)  
 
 * * *
 
-- [黑科技原理大揭秘2。](https://mc.dfrobot.com.cn/thread-319782-1-1.html)
+- [黑科技原理大揭秘2](https://mc.dfrobot.com.cn/thread-319782-1-1.html)
 
 * * *
 
-- [黑科技原理大揭秘3。](https://mc.dfrobot.com.cn/thread-319880-1-1.html)
+- [黑科技原理大揭秘3](https://mc.dfrobot.com.cn/thread-319880-1-1.html)
 
 * * *
 
@@ -465,7 +368,7 @@
 
 * * *
 
-- [1分钟教会你下载C++。](https://mc.dfrobot.com.cn/thread-319683-1-1.html)
+- [1分钟教会你下载C++](https://mc.dfrobot.com.cn/thread-319683-1-1.html)
 
 * * *
 
@@ -491,10 +394,6 @@
 * * *
 
 - [TF计算器1.5](https://mc.dfrobot.com.cn/thread-320193-1-1.html)
-
-* * *
-
-- [TF计算器1.5](https://mc.dfrobot.com.cn/thread-320201-1-1.html)
 
 * * *
 
